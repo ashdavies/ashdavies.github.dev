@@ -1,0 +1,24 @@
+name: Ash Davies
+description: "Twenty-something Android Developer living in the city of beer and sausages,<br />musing over fond memories of British tea and Salt & Vinegar crisps"
+url: "http://ashdavies.io/"
+
+github_username:  ashdavies
+twitter_username: DogmaticCoder
+google_plus_username: AshDavies
+linkedin_username: ashowendavies
+stack_of_username: 571416
+medium_username:  AshDavies
+
+avatar: yes
+avatar_img_path: "imgs/ybCMyrp6.png"
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+markdown: kramdown
+permalink: pretty
